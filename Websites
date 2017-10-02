@@ -1,99 +1,147 @@
-RESOURCES
 
 Security: Training, Tutorials, Study Materials
-	•	Cybrary: https://www.cybrary.it/
-	•	Internetworking Concepts: 
-	  •	http://networking.ringofsaturn.com/
-	  •	http://www.omnisecu.com/
-	  •	https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?&page=1
-	  •	Hub, Switch, & Router Explained: https://www.youtube.com/watch?v=1z0ULvg_pW8
-	  •	https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
-	  •	https://en.wikibooks.org/wiki/Communication_Systems/Print_Version
-	  •	https://media.ccc.de/v/SHA2017-20-network_concepts_introduction_wireshark_workshop
-	•	Introduction to Cryptography: https://gpgtools.tenderapp.com/kb/how-to/introduction-to-cryptography
-	•	Hacksplaining: https://www.hacksplaining.com/
-	•	Null-Byte Wonder How-To: https://null-byte.wonderhowto.com/
-	•	Tuts4you: https://tuts4you.com/
-	•	OmniSecu http://www.omnisecu.com/
-	•	Hacking Tutorials: http://www.hackingtutorials.org/
-	•	WiFi Hacking Concepts: 
-    * Null-Byte: https://null-byte.wonderhowto.com/how-to/hack-wi-fi-getting-started-with-terms-technologies-0147659/
-    * Kali Tutorials: http://www.kalitutorials.net/2016/09/things-you-should-know-wireless-hacking.html
-    * Metageek: http://www.metageek.com/training/
-    * Kali Tutorials #2: http://www.kalitutorials.net/2016/09/things-you-should-know-wireless-hacking.html
-	•	InfoSec Institute Resources: http://resources.infosecinstitute.com/
-	•	Pen Test Wiki Repo: https://github.com/nixawk/pentest-wiki
-	•	Different Types of Malware Explained: http://www.hackingtutorials.org/malware-analysis-tutorials/malware-types-explained/
-	•	Reverse Engineering Malware 101: https://securedorg.github.io/RE101/
-	•	Reverse Engineering Malware 102: https://securedorg.github.io/RE102/
-	•	Introduction to Binary Reverse Engineering: https://goo.gl/CxnL7a
-  * API Security Testing: https://assertible.com/blog/api-security-testing-tips-to-prevent-getting-pwned
-  * Android App Security Checklist: https://github.com/b-mueller/android_app_security_checklist
-	•	Fuzzing Guides: 
-    * Guru99: http://www.guru99.com/fuzz-testing.html
-    * mwrinfosecurity: https://www.mwrinfosecurity.com/our-thinking/15-minute-guide-to-fuzzing/
-	•	Docker Guides: 
-    * Play With Docker: http://training.play-with-docker.com/
-    * Getting Started: https://docs.docker.com/get-started/#a-brief-explanation-of-containers
-	•	DNS: https://danielmiessler.com/study/dns/#gs.QRFmzG4
-	•	OWASP Glossary: https://www.owasp.org/index.php/Category:Glossary
-	•	OWASP Vulnerability Categories: https://www.owasp.org/index.php/Category:Vulnerability
-	•	OWASP Attack Categories: https://www.owasp.org/index.php/Category:Attack
-	•	OWASP Testing Guide v4: https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents
-  * OWASP Periodic Table of Vulnerabilities: https://www.owasp.org/index.php/OWASP_Periodic_Table_of_Vulnerabilities#tab=Periodic_Table_of_Vulnerabilities
-	•	Lets Encrypt Explained: https://opensource.com/business/16/8/lets-encrypt
-  * Buffer Overflow: https://arstechnica.com/information-technology/2015/08/how-security-flaws-work-the-buffer-overflow/
-	•	Walkthrough of CTF's: https://warhable.wordpress.com/
-	•	CTF Field Guide: https://trailofbits.github.io/ctf/
-	•	Pentesting iOS: http://www.securitylearn.net/tag/ios-application-security-assessment/
-	•	F-Secure: https://www.f-secure.com/en/web/labs_global/articles
-  * RDP Exposure: https://blog.rapid7.com/2017/08/09/remote-desktop-protocol-exposure/
-  * How Captive Portals Interfere With Wireless Security and Privacy: https://www.eff.org/deeplinks/2017/08/how-captive-portals-interfere-wireless-security-and-privacy
-	•	SQLi:
-    * https://www.troyhunt.com/everything-you-wanted-to-know-about-sql/
-    * http://resources.infosecinstitute.com/sql-injections-introduction/#gref
-    * https://securityonline.info/sql-injection-understanding-mysql-command/amp/
-	•	Blind SQLi: http://www.kalitutorials.net/2015/02/blind-sql-injection.html
-	* XSS:
-    * https://brutelogic.com.br/blog/the-7-main-xss-cases-everyone-should-know/
-    * https://dev.to/ben/my-all-time-favorite-demonstration-of-a-cross-site-scripting-attack
-  * Command Injection: https://www.quora.com/What-is-command-injection-and-how-does-it-work/answer/Jobert-Abma?share=8502ef38&srid=kl8Z
-  •	IRC Tutorial: http://web.archive.org/web/20160911070100/http://www.irchelp.org:80/irchelp/irctutorial.html
-	•	Bucky Roberts Hacking Tutorial Videos: https://vimeo.com/thenewboston/collections
-	•	Webpwnized Hacking Tutorial Videos: https://www.youtube.com/user/webpwnized/playlists
-	•	Intro to ML: http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf
-	•	Metasploit Unleashed (free course): https://www.offensive-security.com/metasploit-unleashed/
-	•	SANS Checklists & Guides: https://www.sans.org/score/checklists
-	•	Security-focused HTTP Primer: https://danielmiessler.com/study/http/#gs.7ir7egQ
-	•	SSL/TLS Best Practices: https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices
-	•	IDA Pro Series: https://qmemcpy.github.io/post/ida-series-1-hex-rays
-	•	Deep Dive into a Custom Malware Packer: https://vulnerablelife.wordpress.com/2017/07/02/deep-dive-into-a-custom-malware-packer/
-	•	OWASP Mobile Security Guide: https://b-mueller.gitbooks.io/the-owasp-mobile-security-testing-guide/content/
-	•	Command Injection Explanation: https://www.quora.com/What-is-command-injection-and-how-does-it-work/answer/Jobert-Abma?share=8502ef38&srid=kl8Z
-	•	Burp Suite Issue Definitions: https://portswigger.net/knowledgebase/issues
-  * iOS Hacking Guide: https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf?
-  * ROP: https://ropemporium.com/
-  * PCAP: https://www.trustwave.com/Resources/SpiderLabs-Blog/PCAP-Files-Are-Great-Arn-t-They--/
-  * PROCESS MEMORY AND MEMORY CORRUPTIONS: https://azeria-labs.com/process-memory-and-memory-corruption/
-  * Heap Exploitation: https://github.com/shellphish/how2heap
-  * Browser Exploitation: https://www.youtube.com/watch?v=j3SbkXxdvnE
-  * Process Injection Techniques: https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process
-	•	War Games
-	  •	http://overthewire.org/wargames/bandit/
-	  •	https://hack.me/
-	  •	http://www.gameofhacks.com/
-	  •	http://google-gruyere.appspot.com/
-	  •	http://smashthestack.org/index.html
-	  •	https://exploit-exercises.com/
-	  •	https://2017.flare-on.com/challenges
-    * https://pwnable.tw/
-    * https://warhable.wordpress.com/
-    * Damn Vulnerable Web Application (DVWA): http://www.dvwa.co.uk/, https://github.com/ethicalhack3r/DVWA
-      * Installing DVWA: http://www.kalitutorials.net/2017/04/set-up-your-own-web-application.html
-    * Damn Vulnerable iOS App (DVIA): http://damnvulnerableiosapp.com/
-    * DIVA (Android): http://payatu.com/damn-insecure-and-vulnerable-app/
-      * Cracking Damn Insecure and Vulnerable App (DIVA): http://resources.infosecinstitute.com/cracking-damn-insecure-and-vulnerable-apps-diva-part-1/#gref
-	  * HackSys Extreme Vulnerable Driver: https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
-    •	Hacking Sites, CTFs, and Wargames: https://hackerlists.com/hacking-sites/
+
+Cybrary: https://www.cybrary.it/
+
+Internetworking Concepts: 
+	• http://networking.ringofsaturn.com/
+	• http://www.omnisecu.com/
+	• https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml?&page=1
+	• https://www.youtube.com/watch?v=1z0ULvg_pW8
+	• https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5
+	• https://en.wikibooks.org/wiki/Communication_Systems/Print_Version
+	• https://media.ccc.de/v/SHA2017-20-network_concepts_introduction_wireshark_workshop
+
+Introduction to Cryptography: https://gpgtools.tenderapp.com/kb/how-to/introduction-to-cryptography
+
+Hacksplaining: https://www.hacksplaining.com/
+
+Null-Byte Wonder How-To: https://null-byte.wonderhowto.com/
+
+Tuts4you: https://tuts4you.com/
+
+OmniSecu http://www.omnisecu.com/
+
+Hacking Tutorials: http://www.hackingtutorials.org/
+
+F-Secure: https://www.f-secure.com/en/web/labs_global/articles
+
+InfoSec Institute Resources: http://resources.infosecinstitute.com/
+
+WiFi Hacking Concepts: 
+	* Null-Byte: https://null-byte.wonderhowto.com/how-to/hack-wi-fi-getting-started-with-terms-technologies-0147659/
+	* Kali Tutorials: http://www.kalitutorials.net/2016/09/things-you-should-know-wireless-hacking.html
+	* Metageek: http://www.metageek.com/training/
+	* Kali Tutorials #2: http://www.kalitutorials.net/2016/09/things-you-should-know-wireless-hacking.html
+
+Pen Test Wiki Repo: https://github.com/nixawk/pentest-wiki
+
+Different Types of Malware Explained: http://www.hackingtutorials.org/malware-analysis-tutorials/malware-types-explained/
+
+Reverse Engineering Malware 101: https://securedorg.github.io/RE101/
+Reverse Engineering Malware 102: https://securedorg.github.io/RE102/
+
+Introduction to Binary Reverse Engineering: https://goo.gl/CxnL7a
+
+API Security Testing: https://assertible.com/blog/api-security-testing-tips-to-prevent-getting-pwned
+
+Android App Security Checklist: https://github.com/b-mueller/android_app_security_checklist
+
+Fuzzing Guides: 
+	* Guru99: http://www.guru99.com/fuzz-testing.html
+	* mwrinfosecurity: https://www.mwrinfosecurity.com/our-thinking/15-minute-guide-to-fuzzing/
+
+Docker Guides: 
+	* Play With Docker: http://training.play-with-docker.com/
+	* Getting Started: https://docs.docker.com/get-started/#a-brief-explanation-of-containers
+
+DNS: https://danielmiessler.com/study/dns/#gs.QRFmzG4
+
+OWASP Glossary: https://www.owasp.org/index.php/Category:Glossary
+OWASP Vulnerability Categories: https://www.owasp.org/index.php/Category:Vulnerability
+OWASP Attack Categories: https://www.owasp.org/index.php/Category:Attack
+OWASP Testing Guide v4: https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents
+OWASP Periodic Table of Vulnerabilities: https://www.owasp.org/index.php/OWASP_Periodic_Table_of_Vulnerabilities#tab=Periodic_Table_of_Vulnerabilities
+OWASP Mobile Security Guide: https://b-mueller.gitbooks.io/the-owasp-mobile-security-testing-guide/content/
+
+Lets Encrypt Explained: https://opensource.com/business/16/8/lets-encrypt
+
+Buffer Overflow: https://arstechnica.com/information-technology/2015/08/how-security-flaws-work-the-buffer-overflow/
+
+Walkthrough of CTF's: https://warhable.wordpress.com/
+CTF Field Guide: https://trailofbits.github.io/ctf/
+
+Pentesting iOS: http://www.securitylearn.net/tag/ios-application-security-assessment/
+
+RDP Exposure: https://blog.rapid7.com/2017/08/09/remote-desktop-protocol-exposure/
+
+How Captive Portals Interfere With Wireless Security and Privacy: https://www.eff.org/deeplinks/2017/08/how-captive-portals-interfere-wireless-security-and-privacy
+
+SQLi:
+	* https://www.troyhunt.com/everything-you-wanted-to-know-about-sql/
+	* http://resources.infosecinstitute.com/sql-injections-introduction/#gref
+	* https://securityonline.info/sql-injection-understanding-mysql-command/amp/
+
+Blind SQLi: http://www.kalitutorials.net/2015/02/blind-sql-injection.html
+
+XSS:
+	* https://brutelogic.com.br/blog/the-7-main-xss-cases-everyone-should-know/
+	* https://dev.to/ben/my-all-time-favorite-demonstration-of-a-cross-site-scripting-attack
+
+Command Injection: https://www.quora.com/What-is-command-injection-and-how-does-it-work/answer/Jobert-Abma?share=8502ef38&srid=kl8Z
+
+IRC Tutorial: http://web.archive.org/web/20160911070100/http://www.irchelp.org:80/irchelp/irctutorial.html
+
+Bucky Roberts Hacking Tutorial Videos: https://vimeo.com/thenewboston/collections
+
+Webpwnized Hacking Tutorial Videos: https://www.youtube.com/user/webpwnized/playlists
+
+Intro to ML: http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf
+
+Metasploit Unleashed (free course): https://www.offensive-security.com/metasploit-unleashed/
+
+SANS Checklists & Guides: https://www.sans.org/score/checklists
+
+Security-focused HTTP Primer: https://danielmiessler.com/study/http/#gs.7ir7egQ
+
+SSL/TLS Best Practices: https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices
+
+IDA Pro Series: https://qmemcpy.github.io/post/ida-series-1-hex-rays
+
+Deep Dive into a Custom Malware Packer: https://vulnerablelife.wordpress.com/2017/07/02/deep-dive-into-a-custom-malware-packer/	
+
+Burp Suite Issue Definitions: https://portswigger.net/knowledgebase/issues
+
+iOS Hacking Guide: https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf?
+
+ROP: https://ropemporium.com/
+
+PCAP: https://www.trustwave.com/Resources/SpiderLabs-Blog/PCAP-Files-Are-Great-Arn-t-They--/
+
+PROCESS MEMORY AND MEMORY CORRUPTIONS: https://azeria-labs.com/process-memory-and-memory-corruption/
+
+Heap Exploitation: https://github.com/shellphish/how2heap
+
+Browser Exploitation: https://www.youtube.com/watch?v=j3SbkXxdvnE
+
+Process Injection Techniques: https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process
+
+War Games:
+	• http://overthewire.org/wargames/bandit/
+	• https://hack.me/
+	• http://www.gameofhacks.com/
+	• http://google-gruyere.appspot.com/
+	• http://smashthestack.org/index.html
+	• https://exploit-exercises.com/
+	• https://2017.flare-on.com/challenges
+	* https://pwnable.tw/
+	* https://warhable.wordpress.com/
+	* Damn Vulnerable Web Application (DVWA): http://www.dvwa.co.uk/, https://github.com/ethicalhack3r/DVWA
+		* Installing DVWA: http://www.kalitutorials.net/2017/04/set-up-your-own-web-application.html
+	* Damn Vulnerable iOS App (DVIA): http://damnvulnerableiosapp.com/
+	* DIVA (Android): http://payatu.com/damn-insecure-and-vulnerable-app/
+		* Cracking Damn Insecure and Vulnerable App (DIVA): http://resources.infosecinstitute.com/cracking-damn-insecure-and-vulnerable-apps-diva-part-1/#gref
+	* HackSys Extreme Vulnerable Driver: https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
+	• Hacking Sites, CTFs, and Wargames: https://hackerlists.com/hacking-sites/
  
 
