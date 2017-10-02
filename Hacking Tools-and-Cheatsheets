@@ -1,0 +1,91 @@
+URL Encoding: http://www.cheat-sheets.org/sites/html.su/urlencoding.html
+
+Is it down right now? http://www.isitdownrightnow.com/
+
+Malware Domain List: http://www.malwaredomainlist.com/mdl.php
+
+XSS'OR JavaScript Hacking Tool: http://xssor.io/
+
+That One Privacy Site: https://thatoneprivacysite.net/
+
+Full Disclosure: http://seclists.org/fulldisclosure/
+
+Packet Storm: https://packetstormsecurity.com/
+
+Exploit DB: https://www.exploit-db.com/
+
+Vulnerability Lab: https://www.vulnerability-lab.com/
+
+Open Sourced Vulnerability Database: https://blog.osvdb.org/about/
+
+US Computer Emergency Readiness Team: https://www.us-cert.gov/
+
+National Vulnerability Database: https://nvd.nist.gov/general/nvd-dashboard
+
+Symantec Security Focus: http://www.securityfocus.com/
+
+Wpscan Docker image: https://hub.docker.com/r/wpscanteam/wpscan/
+
+XSS Payloads: http://www.xss-payloads.com/
+
+Shodan: https://www.shodan.io/
+
+Probable Wordlists: https://github.com/berzerk0/Probable-Wordlists
+
+RTFM (Read the Friggen Manual): https://github.com/leostat/rtfm
+
+Needle: https://github.com/mwrlabs/needle
+
+Cycript: http://www.cycript.org/
+
+Automated Ettercap TCP/IP Hijacking Tool: https://github.com/r00t-3xp10it/morpheus
+
+Mimikatz: https://github.com/gentilkiwi/mimikatz
+
+Social Engineer Toolkit (SET): https://github.com/trustedsec/social-engineer-toolkit
+  * Manual: https://github.com/trustedsec/social-engineer-toolkit/raw/master/readme/User_Manual.pdf
+
+Recon-ng:
+  * http://chousensha.github.io/blog/2016/08/29/pentest-tools-recon-ng/
+	* https://strikersecurity.com/pdfs/recon-ng-guide.pdf
+
+MitM Router: https://github.com/brannondorsey/mitm-router
+
+Skype-Type Keyboard acoustic eavesdropping tool: https://github.com/SPRITZ-Research-Group/Skype-Type
+
+Pcapviz: https://github.com/mateuszk87/PcapViz
+
+SAML Raider - SAML2 Burp Extension: https://github.com/SAMLRaider/SAMLRaider
+
+Python scriptable Reverse Engineering Sandbox: https://github.com/Cisco-Talos/pyrebox
+
+PHP Backdoors: https://github.com/bartblaze/PHP-backdoors
+
+Netcat: https://null-byte.wonderhowto.com/how-to/hack-like-pro-use-netcat-swiss-army-knife-hacking-tools-0148657/
+
+
+
+
+
+CHEATSHEETS
+Security: https://zeltser.com/cheat-sheets/
+
+Pen Testing: https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/
+
+SQLi Cheat Sheet: https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
+
+OWASP Cheat Sheet Series: https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series
+
+Analyzing Malicious Software: https://zeltser.com/reverse-malware-cheat-sheet/
+
+Chmod Chart: https://www.draac.com/chmodchart.html
+
+Cheat Sheet for Analyzing Malicious Software: https://zeltser.com/malware-analysis-cheat-sheet/
+
+Tips for RE Malicious Code: https://zeltser.com/media/docs/reverse-engineering-malicious-code-tips.pdf
+
+TCPIP: https://www.sans.org/security-resources/tcpip.pdf
+
+Nmap: https://s3-us-west-2.amazonaws.com/stationx-public-download/nmap_cheet_sheet_0.6.pdf
+
+Metasploit: http://resources.infosecinstitute.com/metasploit-cheat-sheet/
