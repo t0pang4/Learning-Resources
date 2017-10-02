@@ -14,6 +14,8 @@ Internetworking Concepts:
 
 Introduction to Cryptography: https://gpgtools.tenderapp.com/kb/how-to/introduction-to-cryptography
 
+Security Tube Course: http://www.securitytube-training.com/online-courses/securitytube-python-scripting-expert/
+
 Hacksplaining: https://www.hacksplaining.com/
 
 Null-Byte Wonder How-To: https://null-byte.wonderhowto.com/
@@ -125,6 +127,30 @@ Heap Exploitation: https://github.com/shellphish/how2heap
 Browser Exploitation: https://www.youtube.com/watch?v=j3SbkXxdvnE
 
 Process Injection Techniques: https://www.endgame.com/blog/technical-blog/ten-process-injection-techniques-technical-survey-common-and-trending-process
+
+Internet Articles:
+	• https://www.highspeedinternet.com/resources/why-can-i-only-get-a-few-internet-providers/
+	• https://www.wired.com/2017/04/want-real-choice-broadband-make-three-things-happen/amp
+	• https://www.highspeedinternet.com/resources/why-can-i-only-get-a-few-internet-providers/
+	• https://gizmodo.com/why-americas-internet-is-so-shitty-and-slow-1686173744?kbid=102222
+
+EV Certs:
+	• https://www.troyhunt.com/journey-to-an-extended-validation-certificate/
+	• https://adamcaudill.com/2017/04/09/looking-value-ev-certificates/
+	• https://www.troyhunt.com/on-the-perceived-value-ev-certs-cas-phishing-lets-encrypt/
+
+Intro to Compilers: https://nicoleorchard.com/blog/compilers
+
+An Intro to Git and GitHub for Beginners (Tutorial): http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+Data Structures: https://en.wikibooks.org/w/index.php?title=Data_Structures/All_Chapters&stable=0&redirect=no
+
+Android:
+	• https://opensource.com/article/17/8/app-inventor-android-app-development
+	• https://initblog.com/2017/android-burpsuite/
+	• http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html
+
+Craig Smith Pocket: http://sharedli.st/craigz28
 
 War Games:
 	• http://overthewire.org/wargames/bandit/
