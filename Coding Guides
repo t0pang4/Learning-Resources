@@ -20,8 +20,8 @@
 
 
 --- Web Dev ---
-  •	http://learn.shayhowe.com/html-css/
-  •	https://developer.mozilla.org/en-US/
+  	•	http://learn.shayhowe.com/html-css/
+  	•	https://developer.mozilla.org/en-US/
 
 
 --- Android ---
@@ -29,6 +29,7 @@
 
   
 ------------------- Language Specific -------------------
+
 --- Bash ---
 	•	Art of Command Line: https://github.com/jlevy/the-art-of-command-line
 	•	Bash guide: https://github.com/Idnan/bash-guide
@@ -52,16 +53,13 @@
 	•	https://wiki.skullsecurity.org/Assembly
 	•	https://github.com/Captainarash/The_Holy_Book_of_X86
 	
-	
 --- C ---
 	•	https://en.wikibooks.org/wiki/A_Little_C_Primer/Print_version
-	
 	
 --- C++ ---
 	•	http://www.learncpp.com/
 	•	http://www.cplusplus.com/
 	•	https://www.udemy.com/free-learn-c-tutorial-beginners/
-	
 	
 --- Objective-C ---
 	•	http://cocoadevcentral.com/d/learn_objectivec/
@@ -101,12 +99,13 @@
 	•	https://alf.nu/alert1
 	•	http://prompt.ml/0
 	•	https://github.com/bpesquet/thejsway/#
-	•   https://github.com/revolunet/JSbooks
+	•   	https://github.com/revolunet/JSbooks
 	•	http://javascriptissexy.com/how-to-learn-javascript-properly
 	•	https://jsfiddle.net/
 	•	http://eloquentjavascript.net/
 	•	https://watchandcode.com/courses/60264/lectures/900177
 	•	https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
+	•	https://dev.to/tylermcginnis/ecmascript-tc39-and-the-history-of-javascript-anf
 
 --- SQL ---
 	•	https://en.wikibooks.org/wiki/Structured_Query_Language/Standard_Track_Print
