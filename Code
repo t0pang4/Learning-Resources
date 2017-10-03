@@ -1,0 +1,122 @@
+------------------- Coding Training, Tutorials, Study Materials -------------------
+	•	Free Code Camp: https://www.freecodecamp.org/map
+	•	Learn Code the Hard Way: https://learncodethehardway.org/
+	•	The New Boston Youtube Channel Tutorials: https://www.youtube.com/user/thenewboston/playlists
+	•	CodingSec: https://codingsec.net/
+	•	Harvard CS50 Intro to CS: https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/
+	•	OSSU CS Curriculum: https://github.com/ossu/computer-science
+	•	API Directory: https://www.programmableweb.com/apis/directory
+	•	CodePen: https://codepen.io/
+	•	Google Tech Guides: https://techdevguide.withgoogle.com/
+
+
+------------------- Coding Practice -------------------
+	•	Codingbat: http://codingbat.com/python
+	•	Project Euler: https://projecteuler.net/about
+	•	Code Kata: http://codekata.com/
+	•	Interactive Python Coding Challenges: https://github.com/donnemartin/interactive-coding-challenges
+
+
+--- Web Dev ---
+  •	http://learn.shayhowe.com/html-css/
+  •	https://developer.mozilla.org/en-US/
+
+
+--- Android ---
+	•	https://opensource.com/article/17/8/app-inventor-android-app-development
+
+  
+------------------- Language Specific -------------------
+--- Bash ---
+	•	Art of Command Line: https://github.com/jlevy/the-art-of-command-line
+	•	Bash guide: https://github.com/Idnan/bash-guide
+	•	UNIX Toolbox: http://cb.vu/unixtoolbox.xhtml#sysmisc
+	•	lsof: https://danielmiessler.com/study/lsof/#gs.1PgzDh8
+	•	grep: https://danielmiessler.com/study/grep/#gs.ZbXfNdY
+	•	iptables: https://danielmiessler.com/study/iptables/#gs.oKicFhY
+	•	tcpdump: https://danielmiessler.com/study/tcpdump/#gs.uSFTE5U
+	•	Links: https://opensource.com/article/17/6/linking-linux-filesystem
+	•	51 Useful Lesser Known Commands for Linux Users: https://www.tecmint.com/51-useful-lesser-known-commands-for-linux-users/
+	•	A-Z Linux Commands: https://www.tecmint.com/linux-commands-cheat-sheet/?utm_content=bufferd7778&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+--- Shell Code ---
+	•	https://www.exploit-db.com/papers/13224/
+	•	https://azeria-labs.com/writing-arm-shellcode/
+	•	https://en.wikibooks.org/wiki/Bourne_Shell_Scripting/Print_Version
+  
+--- X86 Assembly ---
+	•	http://www.opensecuritytraining.info/IntroX86.html
+	•	https://en.wikibooks.org/wiki/X86_Assembly
+	•	https://wiki.skullsecurity.org/Assembly
+	•	https://github.com/Captainarash/The_Holy_Book_of_X86
+	
+	
+--- C ---
+	•	https://en.wikibooks.org/wiki/A_Little_C_Primer/Print_version
+	
+	
+--- C++ ---
+	•	http://www.learncpp.com/
+	•	http://www.cplusplus.com/
+	•	https://www.udemy.com/free-learn-c-tutorial-beginners/
+	
+	
+--- Objective-C ---
+	•	http://cocoadevcentral.com/d/learn_objectivec/
+	
+	
+--- Swift ---
+	•	https://www.hackingwithswift.com/read
+
+
+--- Python ---
+	•	Python Programming: https://en.wikibooks.org/wiki/Python_Programming/Print_version
+	•	Tutorials Point Python Guide: https://www.tutorialspoint.com/python/index.htm
+	•	Python Spot (machine learning too): https://pythonspot.com/en/
+	•	Google's Python Class: https://developers.google.com/edu/python/
+	•	Python Problem Solving with Algorithms and Data Structures: http://interactivepython.org/runestone/static/pythonds/index.html
+	•	Full Stack Python: https://www.fullstackpython.com/
+	•	Think like a Computer Scientist: http://interactivepython.org/runestone/static/thinkcspy/index.html
+	•	Everyday Python Projects: http://interactivepython.org/runestone/static/everyday/index.html
+	•	Building Skills in Python: http://www.itmaybeahack.com/book/python-2.6/html/index.html
+	•	Django Web Development: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+	•	Python bytecode reverse-engineering: https://chriswarrick.com/blog/2017/08/03/gynvaels-mission-11-en-python-bytecode-reverse-engineering/
+	•	CVE Search Script: https://github.com/highmeh/cvesearch/blob/master/cvesearch.py
+	*   Python Network Programming: https://www.udemy.com/python-programming-for-real-life-networking-use/learn/v4/overview
+	*   Python and Django Full Stack Web Developer Bootcamp: https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview
+	*   Python For Offensive PenTest: A Complete Practical Course: https://www.udemy.com/python-for-offensive-security-practical-course/
+
+--- Javascript ---
+	•	http://www.xss-payloads.com/tools-list.html?token=rltob#keyword=practice
+	•	https://xss-game.appspot.com/
+	•	https://alf.nu/alert1
+	•	http://prompt.ml/0
+	•	https://github.com/bpesquet/thejsway/#
+	•   https://github.com/revolunet/JSbooks
+	•	http://javascriptissexy.com/how-to-learn-javascript-properly
+	•	https://jsfiddle.net/
+	•	http://eloquentjavascript.net/
+	•	https://watchandcode.com/courses/60264/lectures/900177
+	•	https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
+
+--- SQL ---
+	•	https://en.wikibooks.org/wiki/Structured_Query_Language/Standard_Track_Print
+
+--- PHP ---
+	•	PHP Programming: https://en.wikibooks.org/wiki/PHP_Programming/Print_version
+	•	PHP The Right Way: http://www.phptherightway.com/
+	•	Learn X in Y Minutes: https://learnxinyminutes.com/docs/php/
+	•	Learn-PHP: http://www.learn-php.org/en/Welcome
+	•	Object Oriented PHP for Beginners: https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762
+		•	Steps 1 – 5: http://www.killerphp.com/tutorials/php-objects-page-1/
+	•	Projects/Tutorials:
+		•	PHP Create a MySQL Database: https://www.w3schools.com/php/php_mysql_create.asp
+		•	CRUD Tutorial: https://www.startutorial.com/articles/view/php-crud-tutorial-part-1
+		•	Create A Simple News Site With PHP And MySQL Using PDO: https://phpocean.com/index.php?url=tutorials/back-end/create-a-simple-news-site-with-php-and-mysql-using-pdo/11
+		•	Build Your Own Database Driven Site using PHP and MySQL: https://phpocean.com/index.php?url=tutorials/back-end/create-a-simple-news-site-with-php-and-mysql-using-pdo/11
+		•	Write a Simple PHP/MySQL Web Service for an iOS App: https://www.raywenderlich.com/2941/how-to-write-a-simple-phpmysql-web-service-for-an-ios-app
+		•	Build your own CMS with PHP and MySQL: http://www.findalltogether.com/tutorial/build-your-own-cms-with-php-and-mysql-from-scratch-step-by-step-part-1/
+		•	Creating a Basic ToDo Application in Laravel: https://www.flynsarmy.com/2015/02/creating-a-basic-todo-application-in-laravel-5-part-1/
+		•	Building a Bootstrap Contact Form Using PHP and AJAX: https://webdesign.tutsplus.com/tutorials/building-a-bootstrap-contact-form-using-php-and-ajax--cms-23068
+		•	How to Build a Functional Login Form with PHP + Twitter Bootstrap: http://untame.net/2013/06/how-to-build-a-functional-login-form-with-php-twitter-bootstrap/
+
