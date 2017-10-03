@@ -15,6 +15,8 @@
 	•	Project Euler: https://projecteuler.net/about
 	•	Code Kata: http://codekata.com/
 	•	Interactive Python Coding Challenges: https://github.com/donnemartin/interactive-coding-challenges
+	•	CheckIO: https://checkio.org/
+	•	CodeWars: https://www.codewars.com/
 
 
 --- Web Dev ---
@@ -63,11 +65,16 @@
 	
 --- Objective-C ---
 	•	http://cocoadevcentral.com/d/learn_objectivec/
-	
+	•	http://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects
+	•	http://www.dummies.com/software/objective-c-for-dummies-cheat-sheet/
+	•	https://koenig-media.raywenderlich.com/downloads/RW-Objective-C-Cheatsheet-v-1-5.pdf
+	•	https://github.com/iwasrobbed/Objective-C-CheatSheet
 	
 --- Swift ---
 	•	https://www.hackingwithswift.com/read
-
+	•	https://mhm5000.gitbooks.io/swift-cheat-sheet/content/basics/index.html
+	•	https://www.raywenderlich.com/143771/swift-tutorial-part-1-expressions-variables-constants
+	•	
 
 --- Python ---
 	•	Python Programming: https://en.wikibooks.org/wiki/Python_Programming/Print_version
@@ -76,15 +83,17 @@
 	•	Google's Python Class: https://developers.google.com/edu/python/
 	•	Python Problem Solving with Algorithms and Data Structures: http://interactivepython.org/runestone/static/pythonds/index.html
 	•	Full Stack Python: https://www.fullstackpython.com/
+	•	Test-Driven Development with Python: http://chimera.labs.oreilly.com/books/1234000000754/index.html
 	•	Think like a Computer Scientist: http://interactivepython.org/runestone/static/thinkcspy/index.html
 	•	Everyday Python Projects: http://interactivepython.org/runestone/static/everyday/index.html
 	•	Building Skills in Python: http://www.itmaybeahack.com/book/python-2.6/html/index.html
 	•	Django Web Development: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
 	•	Python bytecode reverse-engineering: https://chriswarrick.com/blog/2017/08/03/gynvaels-mission-11-en-python-bytecode-reverse-engineering/
 	•	CVE Search Script: https://github.com/highmeh/cvesearch/blob/master/cvesearch.py
-	*   Python Network Programming: https://www.udemy.com/python-programming-for-real-life-networking-use/learn/v4/overview
-	*   Python and Django Full Stack Web Developer Bootcamp: https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview
-	*   Python For Offensive PenTest: A Complete Practical Course: https://www.udemy.com/python-for-offensive-security-practical-course/
+	•	LearnTris: https://github.com/LearnProgramming/learntris
+	*   	Python Network Programming: https://www.udemy.com/python-programming-for-real-life-networking-use/learn/v4/overview
+	*   	Python and Django Full Stack Web Developer Bootcamp: https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/learn/v4/overview
+	*   	Python For Offensive PenTest: A Complete Practical Course: https://www.udemy.com/python-for-offensive-security-practical-course/
 
 --- Javascript ---
 	•	http://www.xss-payloads.com/tools-list.html?token=rltob#keyword=practice
