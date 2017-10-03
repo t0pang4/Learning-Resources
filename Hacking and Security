@@ -162,6 +162,7 @@ War Games:
 	• https://2017.flare-on.com/challenges
 	* https://pwnable.tw/
 	* https://warhable.wordpress.com/
+	* https://www.hackthissite.org/
 	* Damn Vulnerable Web Application (DVWA): http://www.dvwa.co.uk/, https://github.com/ethicalhack3r/DVWA
 		* Installing DVWA: http://www.kalitutorials.net/2017/04/set-up-your-own-web-application.html
 	* Damn Vulnerable iOS App (DVIA): http://damnvulnerableiosapp.com/
@@ -169,5 +170,6 @@ War Games:
 		* Cracking Damn Insecure and Vulnerable App (DIVA): http://resources.infosecinstitute.com/cracking-damn-insecure-and-vulnerable-apps-diva-part-1/#gref
 	* HackSys Extreme Vulnerable Driver: https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
 	• Hacking Sites, CTFs, and Wargames: https://hackerlists.com/hacking-sites/
+	• WebGoat: https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project
  
 
