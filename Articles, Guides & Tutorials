@@ -43,6 +43,10 @@ Different Types of Malware Explained: http://www.hackingtutorials.org/malware-an
 Reverse Engineering Malware 101: https://securedorg.github.io/RE101/
 Reverse Engineering Malware 102: https://securedorg.github.io/RE102/
 
+Reversing Malware: https://secrary.com/ReversingMalware
+
+Reverse Engineering Malware: https://qmemcpy.github.io/
+
 Introduction to Binary Reverse Engineering: https://goo.gl/CxnL7a
 
 API Security Testing: https://assertible.com/blog/api-security-testing-tips-to-prevent-getting-pwned
@@ -151,6 +155,8 @@ Android:
 	• http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html
 
 Craig Smith Pocket: http://sharedli.st/craigz28
+
+OSCP Survival Guide: https://github.com/frizb/OSCP-Survival-Guide/blob/master/README.md
 
 War Games:
 	• http://overthewire.org/wargames/bandit/
