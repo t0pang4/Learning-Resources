@@ -72,7 +72,9 @@ OWASP Mobile Security Guide: https://b-mueller.gitbooks.io/the-owasp-mobile-secu
 
 Lets Encrypt Explained: https://opensource.com/business/16/8/lets-encrypt
 
-Buffer Overflow: https://arstechnica.com/information-technology/2015/08/how-security-flaws-work-the-buffer-overflow/
+Buffer Overflow: 
+	* https://arstechnica.com/information-technology/2015/08/how-security-flaws-work-the-buffer-overflow/
+	* http://www.hackingtutorials.org/exploit-tutorials/buffer-overflow-explained-basics/
 
 Walkthrough of CTF's: https://warhable.wordpress.com/
 CTF Field Guide: https://trailofbits.github.io/ctf/
