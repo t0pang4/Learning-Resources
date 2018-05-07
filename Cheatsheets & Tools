@@ -83,6 +83,8 @@ OWASP Cheat Sheet Series: https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Seri
 Analyzing Malicious Software: https://zeltser.com/reverse-malware-cheat-sheet/
 
 Chmod Chart: https://www.draac.com/chmodchart.html
+Unix File Permissions: https://wiki.spoje.net/doku.php/howto/linux/permissions
+https://kapeli.com/cheat_sheets/Unix_File_Permissions.docset/Contents/Resources/Documents/index
 
 Cheat Sheet for Analyzing Malicious Software: https://zeltser.com/malware-analysis-cheat-sheet/
 
@@ -91,8 +93,6 @@ Tips for RE Malicious Code: https://zeltser.com/media/docs/reverse-engineering-m
 TCPIP: https://www.sans.org/security-resources/tcpip.pdf
 
 Nmap: https://s3-us-west-2.amazonaws.com/stationx-public-download/nmap_cheet_sheet_0.6.pdf
-
-Unix File Permissions: https://wiki.spoje.net/doku.php/howto/linux/permissions
 
 Metasploit: http://resources.infosecinstitute.com/metasploit-cheat-sheet/
 
